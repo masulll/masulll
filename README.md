@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @masulll
-- 👀 I’m interested in stocks, crypto, design, and programming
-- 🌱 I’m currently learning..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming and design
+- 🌱 I’m currently learning Fullstack Web
+
 
 <!---
 masulll/masulll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
