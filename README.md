@@ -4,7 +4,7 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/masulll)
+![LeetCode Stats](https://leetcard.jacoblin.cool/masulll?theme=wtf&font=Timmana)
 
 <!---
 masulll/masulll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
