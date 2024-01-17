@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masulll
 - 👀 I’m interested in programming and design
-- 🌱 I’m currently learning Fullstack Web
+- 🌱 I’m currently learning Full Stack Web
 
 
 <!---
